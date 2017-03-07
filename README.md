@@ -1,4 +1,4 @@
-template-node
-=============
+multiPartyChatQuickStart
+=========================
 
-A template project for Twilio development in node.js
+Build a multi Party Chat App in 60 minutes using Twilio Programmable Chat . 
